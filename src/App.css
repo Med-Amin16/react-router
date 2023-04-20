@@ -1,0 +1,19 @@
+.App{
+  background-color: black;
+}
+.M-card{
+  background: linear-gradient(white,aqua, black );
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.d-flex{
+  margin-left: 600px;
+}
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: black;
+}
+.B-10{
+margin: auto;
+}
